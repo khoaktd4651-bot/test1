@@ -1,0 +1,14 @@
+# Qt / CMake
+build*/
+*.user
+*.pro.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Objects
+*.o
+*.obj
